@@ -15,6 +15,7 @@ My solutions to LeetCode problems as I practice and improve my problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/lhelina/leet-streaks/tree/main/0013-roman-to-integer/) | Easy |
+| [0179-largest-number](https://github.com/lhelina/leet-streaks/tree/main/0179-largest-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,13 @@ My solutions to LeetCode problems as I practice and improve my problem-solving s
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/lhelina/leet-streaks/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0179-largest-number](https://github.com/lhelina/leet-streaks/tree/main/0179-largest-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/lhelina/leet-streaks/tree/main/0179-largest-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/lhelina/leet-streaks/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
